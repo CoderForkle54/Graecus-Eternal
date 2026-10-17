@@ -1,2 +1,2 @@
 # Graecus-Eternal
-Offical Location for the GRaecus Eternal Mod
+Offical Location for the Graecus Eternal Mod
