@@ -1,0 +1,13 @@
+{
+  "itemGroup.graecus_eternal": "Example Mod Tab",
+  "block.graecus_eternal.example_block": "Example Block",
+  "item.graecus_eternal.example_item": "Example Item",
+
+  "graecus_eternal.configuration.title": "Graecus Eternal! Configs",
+  "graecus_eternal.configuration.section.graecus_eternal.common.toml": "Graecus Eternal! Configs",
+  "graecus_eternal.configuration.section.graecus_eternal.common.toml.title": "Graecus Eternal! Configs",
+  "graecus_eternal.configuration.items": "Item List",
+  "graecus_eternal.configuration.logDirtBlock": "Log Dirt Block",
+  "graecus_eternal.configuration.magicNumberIntroduction": "Magic Number Text",
+  "graecus_eternal.configuration.magicNumber": "Magic Number"
+}
